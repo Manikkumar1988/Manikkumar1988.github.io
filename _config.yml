@@ -24,13 +24,12 @@
 
 # Site settings
 title: Mani Android Dev
-email: naveen@pixelblenders.com
+email: maniksrr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Hello, I'm Manikkumar, an Android application developer. 
+  Check out my projects on GitHub
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://Manikkumar1988.github.io/material" # the base hostname & protocol for your site
-twitter_username: navvenshady
 github_username:  Manikkumar1988
 css: "cyan"
 scroll-cursor: "#00BCD4"
