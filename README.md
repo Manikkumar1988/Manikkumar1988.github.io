@@ -1,5 +1,4 @@
 #Material
 ### Work In Progress.
 
-My Portfolio
-Showcasing the **workflow of Android application development** followed by myself
+Take a sneak peek [here](http://manikkumar1988.github.io)
