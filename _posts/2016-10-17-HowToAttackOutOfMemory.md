@@ -2,8 +2,6 @@
 layout: post
 title:  "How to Attack OOM"
 date:   2016-10-17 23:25:49
-customjs:
- - https://gist.github.com/Manikkumar1988/bd9f058084d56885d1bdae3bdd309649.js
 ---
 
 ## How to Attack OOM (Out Of Memory)
